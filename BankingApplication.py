@@ -88,8 +88,6 @@ def main():
             print(f"Error: {e}")
         else:
             print("Operation was successful.")
-        finally:
-            print("Exiting...")
 
 if __name__ == "__main__":
     main()
